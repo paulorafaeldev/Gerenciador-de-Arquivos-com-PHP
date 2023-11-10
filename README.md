@@ -15,3 +15,6 @@ Este é um simples gerenciador de arquivos em PHP que permite aos usuários real
 - Javascript
 - Bootstrap
 - Banco Mysql 
+
+## Contato
+Em caso de dúvidas ou sugestões, entre em contato através do email: paulo.rafael.jobs@gmail.com
